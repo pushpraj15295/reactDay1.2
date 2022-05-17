@@ -1,0 +1,22 @@
+.App {
+    margin:auto;
+    display:flex;
+    width:90%;
+    height: 55px;
+    justify-content:space-around;
+    background-color:black;
+    color: rgb(248, 246, 246);
+}
+.b>button{
+     padding:10px;
+     background-color: darkcyan;
+     border-radius: 20px; 
+     margin-top: 10px; 
+     color: white;  
+}
+.lnk{
+      display:flex;
+       gap:40px;
+       font-size: 12px;
+      margin-top:10px;
+}
